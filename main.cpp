@@ -1,5 +1,5 @@
 #include <Novice.h>
-
+//ああああああああああ
 const char kWindowTitle[] = "GC1C_13_フジマ_ランマル_タイトル";
 
 // Windowsアプリでのエントリーポイント(main関数)
